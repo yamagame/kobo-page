@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kobo-page/static/css/main.42e0ee90.chunk.css",
+    "main.js": "/kobo-page/static/js/main.794927b7.chunk.js",
+    "main.js.map": "/kobo-page/static/js/main.794927b7.chunk.js.map",
+    "runtime-main.js": "/kobo-page/static/js/runtime-main.035f9032.js",
+    "runtime-main.js.map": "/kobo-page/static/js/runtime-main.035f9032.js.map",
+    "static/js/2.6e22437c.chunk.js": "/kobo-page/static/js/2.6e22437c.chunk.js",
+    "static/js/2.6e22437c.chunk.js.map": "/kobo-page/static/js/2.6e22437c.chunk.js.map",
+    "index.html": "/kobo-page/index.html",
+    "precache-manifest.672ba067bd9b9bf0202db83a73c792b4.js": "/kobo-page/precache-manifest.672ba067bd9b9bf0202db83a73c792b4.js",
+    "service-worker.js": "/kobo-page/service-worker.js",
+    "static/css/main.42e0ee90.chunk.css.map": "/kobo-page/static/css/main.42e0ee90.chunk.css.map",
+    "static/js/2.6e22437c.chunk.js.LICENSE.txt": "/kobo-page/static/js/2.6e22437c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035f9032.js",
+    "static/js/2.6e22437c.chunk.js",
+    "static/css/main.42e0ee90.chunk.css",
+    "static/js/main.794927b7.chunk.js"
+  ]
+}
