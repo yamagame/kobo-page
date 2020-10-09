@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kobo-page/precache-manifest.672ba067bd9b9bf0202db83a73c792b4.js"
+  "/kobo-page/precache-manifest.484685e57a81ea35347641b7f9d0ab35.js"
 );
 
 self.addEventListener('message', (event) => {

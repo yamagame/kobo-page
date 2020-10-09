@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "100cb63b609ddf0eef4ca80d97fe07a2",
+    "revision": "eebfbed8e1a9657bfe1c37098c27d190",
     "url": "/kobo-page/index.html"
   },
   {
-    "revision": "01270dd9fbc128554cbe",
+    "revision": "bf71dfc01101cddf5aef",
     "url": "/kobo-page/static/css/main.42e0ee90.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kobo-page/static/js/2.6e22437c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01270dd9fbc128554cbe",
-    "url": "/kobo-page/static/js/main.794927b7.chunk.js"
+    "revision": "bf71dfc01101cddf5aef",
+    "url": "/kobo-page/static/js/main.25dedee6.chunk.js"
   },
   {
     "revision": "00fa8e7a5ae1d82fc052",
