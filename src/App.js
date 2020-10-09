@@ -7,7 +7,7 @@ import Page4 from './Page4';
 function Header() {
   return (
     <div className="bg-blue-400 p-4 text-4xl font-bold text-white">
-      Kobo-Page
+      最近気になったこと
     </div>
   )
 }
